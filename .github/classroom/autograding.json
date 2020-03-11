@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Fib(6)",
+      "setup": "",
+      "run": "python3 fib2.py",
+      "input": "12",
+      "output": "0\r\n1\r\n1\r\n2\r\n3\r\n5\r\n8\r\n13\r\n21\r\n34\r\n55\r\n89",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
