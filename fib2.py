@@ -13,3 +13,5 @@ else:
    print("Fibonacci sequence:")
    for i in range(numTerms):
        print(fibonnaci(i))
+
+         
