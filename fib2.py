@@ -1,5 +1,6 @@
 numTerms = int(input("How many terms of Fibonacci sequence to print?"))
 
+#main method
 def fibonnaci(n):
    if n < 1:
        return n
